@@ -1,6 +1,6 @@
-Blog: http://www.geekswithblogs.net/sdorman/
-CodePlex: [sdorman](https://www.codeplex.com/site/users/view/sdorman)
-GitHub: [scottdorman](https://github.com/scottdorman)
-Stack Exchange: [scott-dorman](http://stackexchange.com/users/1175/scott-dorman)
-Twitter: [sdorman](https://twitter.com/sdorman)
-CodeProject: [sdorman](http://www.codeproject.com/Members/sdorman)
+- Blog: http://www.geekswithblogs.net/sdorman/
+- CodePlex: [sdorman](https://www.codeplex.com/site/users/view/sdorman)
+- GitHub: [scottdorman](https://github.com/scottdorman)
+- Stack Exchange: [scott-dorman](http://stackexchange.com/users/1175/scott-dorman)
+- Twitter: [sdorman](https://twitter.com/sdorman)
+- CodeProject: [sdorman](http://www.codeproject.com/Members/sdorman)
