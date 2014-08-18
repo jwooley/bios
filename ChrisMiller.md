@@ -1,0 +1,5 @@
+- [MVP Profile](http://mvp.microsoft.com/en-us/mvp/Chris%20Miller-5000200)
+- CodePlex: [anotherlab](https://www.codeplex.com/site/users/view/anotherlab)
+- GitHub: [anotherlab](https://github.com/anotherlab)
+- Stack Overflow: [Chris-Miller](http://stackoverflow.com/users/206/chris-miller)
+- Twitter: [anotherlab](https://twitter.com/anotherlab)
