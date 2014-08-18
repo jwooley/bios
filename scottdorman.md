@@ -1,4 +1,5 @@
-- Blog: http://www.geekswithblogs.net/sdorman/
+- [Blog](http://www.geekswithblogs.net/sdorman/)
+- [MVP Profile](https://mvp.microsoft.com/en-us/mvp/Scott%20Dorman-4014220)
 - CodePlex: [sdorman](https://www.codeplex.com/site/users/view/sdorman)
 - GitHub: [scottdorman](https://github.com/scottdorman)
 - Stack Exchange: [scott-dorman](http://stackexchange.com/users/1175/scott-dorman)
