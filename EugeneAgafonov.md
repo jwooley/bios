@@ -1,0 +1,2 @@
+- CodePlex: [eugeneagafonov](https://www.codeplex.com/site/users/view/eugeneagafonov)
+- GitHub: [eugeneagafonov](https://github.com/eugeneagafonov)
