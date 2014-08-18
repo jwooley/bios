@@ -1,0 +1,3 @@
+- [MVP Profile](http://mvp.microsoft.com/it-it/mvp/Mario De Ghetto-4021838)
+- CodePlex: [mariodeghetto](https://www.codeplex.com/site/users/view/mariodeghetto)
+- Twitter: [mariodeghetto](https://twitter.com/mariodeghetto)
