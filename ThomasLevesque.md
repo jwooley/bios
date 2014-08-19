@@ -1,0 +1,7 @@
+- [Blog (English)](http://www.thomaslevesque.com/)
+- [Blog (French)](http://www.thomaslevesque.fr/)
+- [MVP Profile](https://mvp.microsoft.com/en-us/mvp/Thomas%20Levesque-4039815)
+- CodePlex: [tom103](https://www.codeplex.com/site/users/view/tom103)
+- GitHub: [thomaslevesque](https://github.com/thomaslevesque)
+- Stack Exchange: [Thomas Levesque](http://stackoverflow.com/users/98713/thomas-levesque)
+- Twitter: [thomaslevesque](https://twitter.com/thomaslevesque)
